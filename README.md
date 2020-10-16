@@ -2,6 +2,12 @@
 
 This was a pair programming project together with Claire Caudwell. 
 
+## View it live 👀
+
+https://suspicious-goldwasser-d3184c.netlify.app/
+
+# Project 🧩
+
 The aim of this project was to work in a pair to create a music release page in React using components based on the object information from the Spotify API. We had to follow a specific design template and make the page responsive for mobile, tablet and desktop.
 
 # Tools we used 🛠
@@ -12,6 +18,3 @@ The aim of this project was to work in a pair to create a music release page in 
 5. Bounced ideas off on another.
 6. Asking others for advice.
 
-## View it live 👀
-
-https://suspicious-goldwasser-d3184c.netlify.app/
