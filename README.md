@@ -13,3 +13,5 @@ The aim of this project was to work in a pair to create a music release page in 
 6. Asking others for advice.
 
 ## View it live 👀
+
+https://suspicious-goldwasser-d3184c.netlify.app/
